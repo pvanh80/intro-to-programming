@@ -1,0 +1,2 @@
+//Change text of Label, Button, etc
+.config(text="blah blah")

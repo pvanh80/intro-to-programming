@@ -1,0 +1,32 @@
+[
+    {
+        "stationId": "8224",
+        "y": "6824370",
+        "x": "3342939",
+        "name": "Kalliolantie"
+    },
+    {
+        "stationId": "8223",
+        "y": "6824837",
+        "x": "3342872",
+        "name": "Raskintie"
+    },
+    {
+        "stationId": "8226",
+        "y": "6823988",
+        "x": "3343241",
+        "name": "P\u00e4kinm\u00e4ki"
+    },
+    {
+        "stationId": "8225",
+        "y": "6824308",
+        "x": "3342956",
+        "name": "Kalliolantie"
+    },
+    {
+        "stationId": "1414",
+        "y": "6828762",
+        "x": "3324338",
+        "name": "Soirokatu"
+    }
+]
